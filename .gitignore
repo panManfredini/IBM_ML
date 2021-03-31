@@ -1,6 +1,7 @@
 
 .idea/
 .vscode/
+01_ReadingData/data/global_warming/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
